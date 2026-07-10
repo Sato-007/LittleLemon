@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 
 DJOSER = {
     # Set this to the field you want to use as the user identifier (e.g., 'username' or 'email')
-    "USER_ID_FIELD": "arasgungore"
+    "USER_ID_FIELD": "satoadmin"
 }
 
 REST_FRAMEWORK = {
